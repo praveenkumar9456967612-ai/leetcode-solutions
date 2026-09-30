@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -14,4 +15,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
