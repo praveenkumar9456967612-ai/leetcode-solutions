@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -32,11 +33,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,4 +48,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
