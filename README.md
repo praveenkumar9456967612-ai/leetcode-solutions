@@ -13,6 +13,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
