@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -55,4 +56,16 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
