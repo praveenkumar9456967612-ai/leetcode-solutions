@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -63,6 +64,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
