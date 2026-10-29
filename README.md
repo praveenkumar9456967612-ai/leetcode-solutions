@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenkumar9456967612-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
